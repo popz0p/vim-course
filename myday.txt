@@ -1,0 +1,22 @@
+
+Today I came over to my sons at 9:00 am to study coding. Today I have done an upsate Tic Tok video regarding my class. I finished copying all the java script definitions for the initial JS course to my journal. I have also started and am currently continuing the new "Clip generator" project that Gary R. assigned to me today. The project will require me to use VIM and node.js. respectively. So, respectively, I need to learn both. Im starting with VIM. Am currently on exercise 01: Editing a new file with VIM. How am I doing World? 
+
+Adding itional line of text
+
+I am continuing to practice both vim commands (which there are MANY). i am also practicing to type without looking at 
+the screen. There is alot to leatn but with repition and perserverance i believe that i will become most prficient and 
+more and more fast with both my typing, accuracy and knowledge.
+
+now i will begin lesson 13 in the udemy vim study course "Deleting text walkthrough in vim".
+
+here we go. 1,2,3,4. 
+if you didnt know then you should practice, for show.
+I will keep on,  learning each day.
+making the most of my time you could say.
+people will ask "what did you learn"? 
+I will say "alot, thats why my brain hurts.
+Examples must be given or the words are just words.
+I must prove that i am not just speaking word turds.
+Proofs in the pudding. Or so the say.
+now i must practice vim navigation, on this lame rhyme thats displayed.
+
